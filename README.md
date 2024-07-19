@@ -21,8 +21,8 @@ This project is an AI-powered chat application using OpenAI's GPT-4o-mini model.
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/gpt-4o-mini-engineer-chat.git
-   cd gpt-4o-mini-engineer-chat
+   git clone https://github.com/lalomorales22/gpt4omini-engineer.git
+   cd gpt4omini-engineer
    ```
 
 2. Create a virtual environment (optional but recommended):
